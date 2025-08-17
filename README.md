@@ -1,12 +1,12 @@
 backend: fast api
 frontend: react native
 
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
 
 ⚠️ FOR BACKEND: ALWAYS CREATE YOUR OWN .env....
 ⚠️ IF YOU KNOW HOW TO CREATE .env   then create.. youtube niyo nalang.
@@ -14,8 +14,9 @@ frontend: react native
 ⚠️ yan yung kulay green.. if naka activate na
 > go to cd .\EMS-CS-302\
 type: pip install -r requirements. txt   ( to install required library)
-
-
+-
+-
+-
 1️⃣ **to test backend: **
 > check proper working directory:
 > <img width="850" height="364" alt="image" src="https://github.com/user-attachments/assets/13a4e83e-8d6d-4b82-8a6a-039d5b756a39" />
@@ -29,13 +30,31 @@ http://localhost:8000/get-all-maps
 
 if all goods, then do the FRONTEND na.
 ⚠️ IF WARNING ERROR: go back to top.. haha install niyo reqs.
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
 SCROLL DOWN FOR FRONTEND
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -52,7 +71,7 @@ Git (to clone repo)
 
 3: npx expo start
 
-ayun langggg.
+ayun langggg. ma gegets niyo code if may basic knowledge kayo sa react/react native. may mga commetns naman. overall paldo na
 
 
 
